@@ -7,7 +7,22 @@ h1 {
     color: red;
 }
 
+h2 {
+    color: brown;
+}
+
 p {
     color: blue;
 }
 
+#inputOne {
+    margin: 25px;
+}
+
+#inputTwo {
+    margin: 50px;
+}
+
+footer {
+    color: coral;
+}
